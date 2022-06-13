@@ -1,2 +1,2 @@
 # Basic-Python
-Is a repository for Basic Python curse 
+Is a repository for Basic Python course 
